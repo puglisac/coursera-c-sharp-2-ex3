@@ -1,4 +1,4 @@
-# Exercise 2: Lists
+# Exercise 3: Keeping the Odd
 
 This is an exercise for the coursera course [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity)
 
